@@ -8,4 +8,4 @@
 <b>JSON</b><br/>
 <a href=https://github.com/Nyussay/tasks/blob/master/JSON/students.json>Ответ</a> <br/>
 Валидация на сайте <a href=jsonlint.com>jsonlint.com</a>
-
+https://github.com/Nyussay/portfolioGoss/issues/1#issue-592460938
