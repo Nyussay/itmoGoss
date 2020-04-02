@@ -8,5 +8,6 @@
 <b>JSON</b><br/>
 <a href=https://github.com/Nyussay/tasks/blob/master/JSON/students.json>Часть I. Перевод с языка XML на язык JSON</a> <br/>
 Валидация на сайте <a href=jsonlint.com>jsonlint.com</a>
-![valid](https://user-images.githubusercontent.com/58169429/78228419-58831e00-74d7-11ea-9aed-487d1bbe5ed0.png)
+![valid](https://user-images.githubusercontent.com/58169429/78228419-58831e00-74d7-11ea-9aed-487d1bbe5ed0.png)<br/>
 <a href=https://github.com/Nyussay/tasks/blob/master/JSON/students.json>Часть II. Построение схемы</a> <br/>
+![valid2](https://user-images.githubusercontent.com/58169429/78236872-46a77800-74e3-11ea-9040-69d191134be6.png)
