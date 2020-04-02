@@ -6,6 +6,6 @@
 <a href=https://github.com/Nyussay/tasks/tree/master/XMLT-001>Ответ</a> <br/>
 
 <b>JSON</b><br/>
-<a href=https://github.com/Nyussay/tasks/tree/master/XMLT-001>Ответ</a> <br/>
+<a href=https://github.com/Nyussay/tasks/blob/master/JSON/students.json>Ответ</a> <br/>
 Валидация на сайте <a href=jsonlint.com>jsonlint.com</a>
 
