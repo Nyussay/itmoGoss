@@ -16,3 +16,5 @@
 <a href=https://kodaktor.ru/32c6fdd_33b74>Ответ в кодакторе</a><br/>
 <a href=https://github.com/Nyussay/tasks/blob/master/JSIN/JSIN-001.html>Тот же ответ в github</a><br/>
 
+<b>TERN_001</b><br/>
+<a href=https://kodaktor.ru/ternary_352e0>Ответ в кодакторе</a><br/>
