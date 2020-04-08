@@ -22,6 +22,8 @@
 
 
 <b>FUNC_001</b><br/>
-<a href=#>Ответ</a> <br/>
+<a href=#>Ответа пока нет</a> <br/>
 <b>FUNC_002</b><br/>
+<a href=https://github.com/Nyussay/tasks/blob/master/FUNC/FUNC_002.html>Ответ</a> <br/>
 <a href=https://kodaktor.ru/func_e34f6>Ответ в кодакторе</a> <br/>
+<b>FUNC_003</b><br/>
