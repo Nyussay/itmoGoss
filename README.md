@@ -27,3 +27,5 @@
 <a href=https://github.com/Nyussay/tasks/blob/master/FUNC/FUNC_002.html>Ответ</a> <br/>
 <a href=https://kodaktor.ru/func_e34f6>Ответ в кодакторе</a> <br/>
 <b>FUNC_003</b><br/>
+<a href=https://github.com/Nyussay/tasks/blob/master/FUNC/FUNC_003.html>Ответ</a> <br/>
+<a href=https://kodaktor.ru/func_87435>Ответ в кодакторе</a> <br/>
