@@ -41,3 +41,6 @@
 <b>FUNC_007</b><br/>
 <a href=https://github.com/Nyussay/tasks/blob/master/FUNC/FUNC_007.js>Ответ</a> <br/>
 <a href=https://kodaktor.ru/func_2f437>Ответ в кодакторе</a> <br/>
+<b>FUNC_008</b><br/>
+<a href=https://github.com/Nyussay/tasks/blob/master/FUNC/FUNC_008.js>Ответ</a> <br/>
+<a href=https://kodaktor.ru/func_b97ca>Ответ в кодакторе</a> <br/>
