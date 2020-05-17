@@ -51,3 +51,6 @@
 <b>FUNC_010</b><br/>
 <a href=https://github.com/Nyussay/tasks/blob/master/FUNC/FUNC_010.js>Ответ</a> <br/>
 <a href=https://kodaktor.ru/func_70507>Ответ в кодакторе</a> <br/>
+
+<b>IEFE</b><br/>
+<a href=https://github.com/Nyussay/tasks/blob/master/IEFE.js>Ответ</a> <br/>
