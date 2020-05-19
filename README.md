@@ -59,3 +59,6 @@
 
 <b>ASYNC-TASKS</b><br/>
 <a href=https://kodaktor.ru/async_1b8ae>Ответ в кодакторе</a> <br/>
+
+<b>BABL_002</b><br/>
+<a href=hhttps://kodaktor.ru/bind02032018_3b2e9>Ответ в кодакторе</a> <br/>
