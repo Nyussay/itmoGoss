@@ -54,3 +54,8 @@
 
 <b>IEFE</b><br/>
 <a href=https://github.com/Nyussay/tasks/blob/master/IEFE.js>Ответ</a> <br/>
+
+
+
+<b>ASYNC-TASKS</b><br/>
+<a href=https://kodaktor.ru/async_1b8ae>Ответ в кодакторе</a> <br/>
